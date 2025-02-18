@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: f4fd7b703f62f5747ab8baef097dd702
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7601034932713633935
+    second: charles_newer-3_0
+  - first:
+      213: 2147352864672216392
+    second: charles_newer-3_1
+  - first:
+      213: -8930876657024643878
+    second: charles_newer-3_2
+  - first:
+      213: -3954677282843796658
+    second: charles_newer-3_3
+  - first:
+      213: 5719034755991226370
+    second: charles_newer-3_4
+  - first:
+      213: 534754119549885410
+    second: charles_newer-3_5
+  - first:
+      213: -231747826468321400
+    second: charles_newer-3_6
+  - first:
+      213: 5571921889080523236
+    second: charles_newer-3_7
+  - first:
+      213: -5136133414324349672
+    second: charles_newer-3_8
+  - first:
+      213: -5386278318215482002
+    second: charles_newer-3_9
+  - first:
+      213: 7714706845079650650
+    second: charles_newer-3_10
+  - first:
+      213: -276114420121143331
+    second: charles_newer-3_11
+  - first:
+      213: 7868453288052343719
+    second: charles_newer-3_12
+  - first:
+      213: 6908152936517452268
+    second: charles_newer-3_13
+  - first:
+      213: -384505240993829350
+    second: charles_newer-3_14
+  - first:
+      213: 6109504199530613715
+    second: charles_newer-3_15
+  - first:
+      213: -2404602118915325928
+    second: charles_newer-3_16
+  - first:
+      213: 1570286392231384358
+    second: charles_newer-3_17
+  - first:
+      213: 6849218998609341752
+    second: charles_newer-3_18
+  - first:
+      213: 5104811190777014864
+    second: charles_newer-3_19
+  - first:
+      213: 4281748480279658078
+    second: charles_newer-3_20
+  - first:
+      213: -36511847720321002
+    second: charles_newer-3_21
+  - first:
+      213: 8206017635374819119
+    second: charles_newer-3_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charles_newer-3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1440
+        width: 300
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177c44e2003b38690800000000000000
+      internalID: -7601034932713633935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1475
+        width: 322
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8457432ad0eeccd10800000000000000
+      internalID: 2147352864672216392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1475
+        width: 322
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc73d8ff62f0480800000000000000
+      internalID: -8930876657024643878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1477
+        width: 323
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bd9cac6f92e19c0800000000000000
+      internalID: -3954677282843796658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_4
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1480
+        width: 325
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20848f05fc71e5f40800000000000000
+      internalID: 5719034755991226370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_5
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1478
+        width: 323
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb92f9d904db6700800000000000000
+      internalID: 534754119549885410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 940
+        width: 298
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88703e5649aa8ccf0800000000000000
+      internalID: -231747826468321400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 948
+        width: 321
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e93ed2df61735d40800000000000000
+      internalID: 5571921889080523236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 984
+        width: 322
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815de204fd9c8b8b0800000000000000
+      internalID: -5136133414324349672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_9
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 984
+        width: 322
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b06548681045b0800000000000000
+      internalID: -5386278318215482002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_10
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 986
+        width: 320
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a514f375005201b60800000000000000
+      internalID: 7714706845079650650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_11
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 989
+        width: 323
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7f057d56b0b2cf0800000000000000
+      internalID: -276114420121143331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 314
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a34d1e939c523d60800000000000000
+      internalID: 7868453288052343719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 456
+        width: 321
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c13bae70bedf50800000000000000
+      internalID: 6908152936517452268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 493
+        width: 322
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e69404586f9aaf0800000000000000
+      internalID: -384505240993829350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 493
+        width: 322
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db87ce23b159c450800000000000000
+      internalID: 6109504199530613715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_16
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 495
+        width: 319
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81086ebec1321aed0800000000000000
+      internalID: -2404602118915325928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_17
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 499
+        width: 321
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d49c6727cac510800000000000000
+      internalID: 1570286392231384358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 333
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d67f8f3605d0f50800000000000000
+      internalID: 6849218998609341752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4
+        width: 322
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ae3b74bbee7d640800000000000000
+      internalID: 5104811190777014864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_20
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 3
+        width: 322
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e33a0ae83db6b30800000000000000
+      internalID: 4281748480279658078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_21
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 5
+        width: 319
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610898efaa84e7ff0800000000000000
+      internalID: -36511847720321002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charles_newer-3_22
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 12
+        width: 321
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276b11ef81a1e170800000000000000
+      internalID: 8206017635374819119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

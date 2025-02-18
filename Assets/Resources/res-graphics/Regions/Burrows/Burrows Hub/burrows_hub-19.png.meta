@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 33cbefa3f9a0aa04db24e33ca71fe0a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8222791728545716725
+    second: burrows_hub-19_0
+  - first:
+      213: -1856686993330288064
+    second: burrows_hub-19_1
+  - first:
+      213: -7976466380826624798
+    second: burrows_hub-19_2
+  - first:
+      213: 226749277262726743
+    second: burrows_hub-19_3
+  - first:
+      213: 8696195346587030365
+    second: burrows_hub-19_4
+  - first:
+      213: -6791564767242151838
+    second: burrows_hub-19_5
+  - first:
+      213: -927212178211281848
+    second: burrows_hub-19_6
+  - first:
+      213: -4301597502137776750
+    second: burrows_hub-19_7
+  - first:
+      213: 7966433056686869680
+    second: burrows_hub-19_8
+  - first:
+      213: -6315708375006993006
+    second: burrows_hub-19_9
+  - first:
+      213: -529716398026483726
+    second: burrows_hub-19_10
+  - first:
+      213: -4235237603675094401
+    second: burrows_hub-19_11
+  - first:
+      213: -2361336791075526723
+    second: burrows_hub-19_12
+  - first:
+      213: 1090494865408433874
+    second: burrows_hub-19_13
+  - first:
+      213: -235011771053521330
+    second: burrows_hub-19_14
+  - first:
+      213: 4748235504968094848
+    second: burrows_hub-19_15
+  - first:
+      213: -5435190513147284132
+    second: burrows_hub-19_16
+  - first:
+      213: -8326316505134084559
+    second: burrows_hub-19_17
+  - first:
+      213: -4037219110694314540
+    second: burrows_hub-19_18
+  - first:
+      213: 4316623930318215375
+    second: burrows_hub-19_19
+  - first:
+      213: 7634168136840386469
+    second: burrows_hub-19_20
+  - first:
+      213: 6321880555506530080
+    second: burrows_hub-19_21
+  - first:
+      213: -2068459779809579679
+    second: burrows_hub-19_22
+  - first:
+      213: 4835027569166987900
+    second: burrows_hub-19_23
+  - first:
+      213: -3536308117889100530
+    second: burrows_hub-19_24
+  - first:
+      213: 4858588027525029170
+    second: burrows_hub-19_25
+  - first:
+      213: 6493768013419181058
+    second: burrows_hub-19_26
+  - first:
+      213: 461172915682236904
+    second: burrows_hub-19_27
+  - first:
+      213: 1308562281541644479
+    second: burrows_hub-19_28
+  - first:
+      213: -817270906258733358
+    second: burrows_hub-19_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burrows_hub-19_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 1027
+        height: 1060
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0623063d76c2ed80800000000000000
+      internalID: -8222791728545716725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 934
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ac5774409bb36e0800000000000000
+      internalID: -1856686993330288064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 493
+        width: 539
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecbbf77616ed4190800000000000000
+      internalID: -7976466380826624798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 908
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756425c2443952300800000000000000
+      internalID: 226749277262726743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_5
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 484
+        width: 96
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2681973d3d38fb1a0800000000000000
+      internalID: -6791564767242151838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 587
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc00c638a47e8e60800000000000000
+      internalID: 7966433056686869680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 586
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295afbae1b81a58a0800000000000000
+      internalID: -6315708375006993006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 135
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f79ee71eb116a8f0800000000000000
+      internalID: -529716398026483726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 525
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72c195b6d96935c0800000000000000
+      internalID: -4235237603675094401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 515
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7e1ec03b8da3fd0800000000000000
+      internalID: -2361336791075526723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 45
+        width: 470
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d64481aca5b43e0800000000000000
+      internalID: -2068459779809579679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_24
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 9
+        width: 97
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05d3e0c0828ceec0800000000000000
+      internalID: -3536308117889100530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_25
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 166
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d5892b11c2d6340800000000000000
+      internalID: 4858588027525029170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_26
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 165
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204f4ad4a9f7e1a50800000000000000
+      internalID: 6493768013419181058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9554bc25a666600800000000000000
+      internalID: 461172915682236904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_28
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0b3c54672f82210800000000000000
+      internalID: 1308562281541644479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burrows_hub-19_29
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6cf2bd07878a4f0800000000000000
+      internalID: -817270906258733358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 29f56d36e1d799347bf70b51448c66c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      burrows_hub-19_0: -8222791728545716725
+      burrows_hub-19_1: -1856686993330288064
+      burrows_hub-19_10: -529716398026483726
+      burrows_hub-19_11: -4235237603675094401
+      burrows_hub-19_12: -2361336791075526723
+      burrows_hub-19_2: -7976466380826624798
+      burrows_hub-19_22: -2068459779809579679
+      burrows_hub-19_24: -3536308117889100530
+      burrows_hub-19_25: 4858588027525029170
+      burrows_hub-19_26: 6493768013419181058
+      burrows_hub-19_27: 461172915682236904
+      burrows_hub-19_28: 1308562281541644479
+      burrows_hub-19_29: -817270906258733358
+      burrows_hub-19_3: 226749277262726743
+      burrows_hub-19_5: -6791564767242151838
+      burrows_hub-19_8: 7966433056686869680
+      burrows_hub-19_9: -6315708375006993006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
